@@ -12,4 +12,4 @@ Game: Stone Paper Scissor Cut
     * Scissor & Stone --> Player A wins
     * Scissor & Paper --> Player B wins
 
-* Each win of a player will be counted as a pint for the player. The game continues until any of the player scores 5.
+* Each win of a player will be counted as well as printed. The game continues until any of the player scores 5.
