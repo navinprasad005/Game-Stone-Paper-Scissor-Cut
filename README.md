@@ -1,8 +1,8 @@
 Game: Stone Paper Scissor Cut
 
 * There are two players. There are there options, stone, paper, scissor. Each player has one of the three options to select.
-Choice               	Decision
-Player A	Player B	
+    * Choice               	Decision
+    * Player A	Player B	
 Stone 	  Stone       DRAW
 Stone	    Paper	      Player A wins
 Stone	    Scissor	    Player B wins
